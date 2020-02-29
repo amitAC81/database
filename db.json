@@ -1,149 +1,160 @@
+
 {
   "department": [
-    "Devloper",
-    "Software Engineer",
-    "Accountant"
+    "Developer",
+    "Accountant",
+    "Software Engineer"
   ],
-  "Employee": [
+  "employee": [
     {
-      "name": "sssss",
-      "email": "ssss@ss",
-      "mobile": "1212121212",
-      "gender": "male",
-      "address": [
+      "name": "Dhruvit",
+      "email": "dhruvit@gmail.com",
+      "mobile": "9426877444",
+      "addresses": [
         {
-          "city": "dddd",
-          "zip": "ddd"
+          "street": "Mograwadi",
+          "city": "Valsad",
+          "state": "Gujarat",
+          "postcode": "396001"
         },
         {
-          "city": "dddd",
-          "zip": "dddd"
+          "street": "Bechar Road",
+          "city": "Valsad",
+          "state": "Gujarat",
+          "postcode": "396001"
         }
       ],
-      "department": "Software Engineer",
-      "hiredate": "2020-02-19",
-      "permanent": true,
-      "id": 11
+      "gender": "male",
+      "department": "Developer",
+      "hireDate": "2019-12-02",
+      "permanentEmployee": true,
+      "id": 1
     },
     {
-      "name": "shiv",
-      "email": "shiv@gmail.com",
-      "mobile": "787878876",
-      "gender": "male",
-      "address": [
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "mobile": "8985698745",
+      "addresses": [
         {
-          "city": "eeesss",
-          "zip": 22222
-        },
-        {
-          "city": "ssss",
-          "zip": "ssss"
+          "street": "Gundlav",
+          "city": "Valsad",
+          "state": "Gujarat",
+          "postcode": "396001"
         }
       ],
+      "gender": "male",
       "department": "Software Engineer",
-      "hiredate": "2020-02-28",
-      "permanent": false,
-      "id": 13
+      "hireDate": "2020-01-16",
+      "permanentEmployee": false,
+      "id": 2
     },
     {
-      "name": "bhargav",
-      "email": "balu@gmail.com",
-      "mobile": "8288838111",
-      "gender": "male",
-      "address": [
+      "name": "Kiran",
+      "email": "kiran@gmail.com",
+      "mobile": "8547569325",
+      "addresses": [
         {
-          "city": "valsad",
-          "zip": 396001
-        },
-        {
-          "city": "surat",
-          "zip": "396044"
+          "street": "Khergam",
+          "city": "Valsad",
+          "state": "Gujarat",
+          "postcode": "396001"
         }
       ],
+      "gender": "male",
       "department": "Accountant",
-      "hiredate": "2020-02-04",
-      "permanent": false,
-      "id":14
+      "hireDate": "2020-01-28",
+      "permanentEmployee": true,
+      "id": 3
     },
     {
-      "name": "sssss",
-      "email": "ssss@ss",
-      "mobile": "dddd",
-      "gender": "male",
-      "address": [
+      "name": "Aastha",
+      "email": "aastha@gmail.com",
+      "mobile": "7897895463",
+      "addresses": [
         {
-          "city": "dddd",
-          "zip": "ddd"
-        },
-        {
-          "city": "ddddsss",
-          "zip": "ddddsss"
+          "street": "Soni wad",
+          "city": "Bilimora",
+          "state": "Gujarat",
+          "postcode": "3658961"
         }
       ],
-      "department": "Software Engineer",
-      "hiredate": "2020-02-19",
-      "permanent": true,
-      "id": 15
+      "gender": "female",
+      "department": "Accountant",
+      "hireDate": "2020-02-11",
+      "permanentEmployee": true,
+      "id": 4
     },
     {
-      "name": "sssss",
-      "email": "ssss@ss",
-      "mobile": "dddd",
-      "gender": "male",
-      "address": [
+      "name": "Tapas",
+      "email": "tapas@gmail.com",
+      "mobile": "8877965843",
+      "addresses": [
         {
-          "city": "dddd",
-          "zip": "ddd"
-        },
-        {
-          "city": "ddddsss",
-          "zip": "ddddsss"
+          "street": "Halar Road",
+          "city": "Valsad",
+          "state": "Gujarat",
+          "postcode": "396001"
         }
       ],
-      "department": "Software Engineer",
-      "hiredate": "2020-02-19",
-      "permanent": true,
-      "id": 16
+      "gender": "male",
+      "department": "Developer",
+      "hireDate": "2020-01-30",
+      "permanentEmployee": false,
+      "id": 5
     },
     {
-      "name": "sssss",
-      "email": "ssss@ss",
-      "mobile": "dddd",
-      "gender": "male",
-      "address": [
+      "name": "Bhargav",
+      "email": "bhargav@gmail.com",
+      "mobile": "8787878787",
+      "addresses": [
         {
-          "city": "dddd",
-          "zip": "ddd"
-        },
-        {
-          "city": "ddddsss",
-          "zip": "ddddsss"
+          "street": "Tithal",
+          "city": "Valsad",
+          "state": "Gujarat",
+          "postcode": "396001"
         }
       ],
+      "gender": "male",
       "department": "Software Engineer",
-      "hiredate": "2020-02-19",
-      "permanent": true,
-      "id": 17
+      "hireDate": "2020-01-30",
+      "permanentEmployee": true,
+      "id": 6
     },
     {
-      "name": "sssss",
-      "email": "ssss@ss",
-      "mobile": "dddd",
-      "gender": "male",
-      "address": [
+      "name": "Shiv",
+      "email": "shiv@gmail.com",
+      "mobile": "9875858745",
+      "addresses": [
         {
-          "city": "dddd",
-          "zip": "ddd"
-        },
-        {
-          "city": "ddddsss",
-          "zip": "ddddsss"
+          "street": "Halar",
+          "city": "Valsad",
+          "state": "Gujarat",
+          "postcode": "396001"
         }
       ],
+      "gender": "male",
+      "department": "Accountant",
+      "hireDate": "2020-01-26",
+      "permanentEmployee": false,
+      "id": 7
+    },
+    {
+      "name": "Samip",
+      "email": "samip@gmail.com",
+      "mobile": "7485963214",
+      "addresses": [
+        {
+          "street": "Abrama Road",
+          "city": "Valsad",
+          "state": "Gujarat",
+          "postcode": "396001"
+        }
+      ],
+      "gender": "male",
       "department": "Software Engineer",
-      "hiredate": "2020-02-19",
-      "permanent": true,
-      "id": 18
+      "hireDate": "2020-02-11",
+      "permanentEmployee": false,
+      "id": 8
     }
   ]
 }
