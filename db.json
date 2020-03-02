@@ -5,6 +5,24 @@
     "Accountant",
     "Software Engineer"
   ],
+  "company": [
+        {
+            "id": 1,
+            "clientName": "aaaa",
+            "location": "valsad",
+            "contactNumber": 88888888,
+            "email": "abc@gmail.com",
+            "designation": "aaaaa"
+        },
+        {
+            "id": 2,
+            "clientName": "bbbb",
+            "location": "valsad",
+            "contactNumber": 88888888,
+            "email": "abc@gmail.com",
+            "designation": "aaaaa"
+        }
+    ],
   "employee": [
     {
       "name": "Dhruvit",
@@ -156,23 +174,5 @@
       "permanentEmployee": false,
       "id": 8
     }
-  ],
-  "company": [
-        {
-            "id": 1,
-            "clientName": "aaaa",
-            "location": "valsad",
-            "contactNumber": 88888888,
-            "email": "abc@gmail.com",
-            "designation": "aaaaa"
-        },
-        {
-            "id": 2,
-            "clientName": "bbbb",
-            "location": "valsad",
-            "contactNumber": 88888888,
-            "email": "abc@gmail.com",
-            "designation": "aaaaa"
-        }
-    ]
+  ]
 }
