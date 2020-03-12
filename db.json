@@ -1,26 +1,28 @@
-
 {
-  "department": [
-    "Developer",
-    "Accountant",
-    "Software Engineer"
-  ],
-  "company": [
+    "project-list":[
         {
-            "id": 1,
-            "clientName": "aaaa",
-            "location": "valsad",
-            "contactNumber": 88888888,
-            "email": "abc@gmail.com",
-            "designation": "aaaaa"
+            "projectId": "121",
+            "projectName": "Republic of Congo",
+            "subProjectName": "Project Staffing",
+            "clientName": "1Rivet",
+            "projectStartDate": "2020-10-12",
+            "projectEndDate": "2020-12-12",
+            "estimatedHours": 100,
+            "projectValue": 200000,
+            "projectManagerName": "Rajesh",
+            "id":1
         },
         {
-            "id": 2,
-            "clientName": "bbbb",
-            "location": "valsad",
-            "contactNumber": 88888888,
-            "email": "abc@gmail.com",
-            "designation": "aaaaa"
+            "projectId": "122",
+            "projectName": "Republic of Madras",
+            "subProjectName": "Employee Staffing",
+            "clientName": "Amazon",
+            "projectStartDate": "2020-8-12",
+            "projectEndDate": "2020-9-12",
+            "estimatedHours": 300,
+            "projectValue": 20000,
+            "projectManagerName": "Mukesh",
+            "id":2
         }
     ]
 }
